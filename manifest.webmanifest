@@ -1,0 +1,16 @@
+{
+  "name": "Cẩm nang Ads A–Z",
+  "short_name": "Cẩm nang Ads",
+  "description": "Học để đọc vị khách hàng: Facebook Ads, Google Ads, báo cáo.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02070A",
+  "theme_color": "#02070A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
